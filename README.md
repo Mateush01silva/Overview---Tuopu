@@ -1,5 +1,8 @@
 # Overview Tuopu do Brasil
 
+![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/tabela_overview.png)
+
 Este projeto é uma aplicação de dashboard desenvolvida com Streamlit para visualização de indicadores de produção da Tuopu do Brasil.
 
 ## Visão Geral
@@ -14,6 +17,8 @@ Para resolver esse problema, desenvolvemos uma dashboard interativa utilizando P
 - **Atualização Automática**: Os dados são atualizados automaticamente a partir de um arquivo Excel que é atualizado diariamente.
 - **Cores Indicativas**: Os indicadores são apresentados com cores que facilitam a identificação do desempenho (verde, laranja e vermelho).
 - **Tooltips**: Informações adicionais são exibidas ao passar o mouse sobre os indicadores.
+- **Acesso Facilitado:** A dashboard pode ser acessada de qualquer computador dentro da empresa através de um link com o número de IP informado.
+- **Exportação de Dados:** A tabela com todos os dados de lançamento do dia pode ser exportada em formato CSV para análises adicionais.
 
 ## Instalação
 
