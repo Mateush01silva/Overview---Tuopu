@@ -27,11 +27,11 @@ Para resolver esse problema, desenvolvemos uma dashboard interativa utilizando P
 
 3. Instale as dependências:
     ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. Uso:
     ```bash
-streamlit run overview.py
+    streamlit run overview.py
 
 ## Observação
 
