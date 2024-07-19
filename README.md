@@ -11,6 +11,8 @@ Na fábrica da Tuopu do Brasil, utilizamos várias planilhas automatizadas com V
 
 Para resolver esse problema, desenvolvemos uma dashboard interativa utilizando Python, Streamlit e Pandas. Esta dashboard compila automaticamente os dados das planilhas e apresenta uma visão em tempo real dos indicadores de produção. Isso permite que a equipe de gestão acompanhe rapidamente o desempenho da fábrica e tome decisões informadas.
 
+** O Projeto ainda não foi concluído.
+
 ## Funcionalidades
 
 - **Visualização de Indicadores**: A dashboard exibe indicadores de produção para as linhas de Montagem e Vulcanização.
